@@ -1,0 +1,15 @@
+.pyc
+.DS_Store
+__pycache__/
+db.sqlite3
+*.key
+thumbs.db
+# Visual Studio Code # 
+**/.vscode/
+.vscode/* 
+.vscode/settings.json
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history.vscode/settings.json
